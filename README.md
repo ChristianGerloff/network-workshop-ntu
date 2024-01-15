@@ -1,1 +1,24 @@
-# network-workshop-ntu
+# Introduction to network analysis
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+
+# Preparation
+
+## Opening the notebooks in Colab
+
+1. Go to <https://colab.research.google.com>, and click on 'File' and then
+'Open Notebook'. <br>
+
+2. In the address field, enter the link to the notebook in this repository.
+
+3. After entering the whole URL to the notebook (including filetype), click
+on the looking glass symbol or hit 'enter' to open the Notebook.
+
+To enable saving your progress and changes, save a copy to your Google
+Drive (or your own GitHub account) using the 'File' dialogue menu.
+
+
+# Authors
+Christian Gerloff
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">Networks workshop</span> by <span property="cc:attributionName">Christian Gerloff</span> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
