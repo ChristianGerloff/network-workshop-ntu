@@ -4,17 +4,13 @@
 
 # Preparation
 
-## Opening the notebooks in Colab
-
 1. Go to <https://colab.research.google.com>, and click on 'File' and then
 'Open Notebook'. <br>
 
-2. In the address field, enter the link to the notebook in this repository.
+2. In the address field, enter the link to the notebook of this repository:<br>
+https://github.com/ChristianGerloff/network-workshop-ntu/blob/main/networks_introduction.ipynb
 
-3. After entering the whole URL to the notebook (including filetype), click
-on the looking glass symbol or hit 'enter' to open the Notebook.
-
-To enable saving your progress and changes, save a copy to your Google
+3. To enable saving your progress and changes, save a copy to your Google
 Drive (or your own GitHub account) using the 'File' dialogue menu.
 
 
